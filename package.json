@@ -1,0 +1,24 @@
+{
+  "name": "@etcpack/babel-loader",
+  "version": "0.1.0",
+  "description": "📦 新语法的JS文件编译成指定版本JS的loader，导入的文本可以是js或者ts等，只是需要配置对应的babel插件",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcpack/babel-loader.git"
+  },
+  "keywords": [
+    "etcpack",
+    "plain",
+    "loader"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etcpack/babel-loader/issues"
+  },
+  "homepage": "https://github.com/etcpack/babel-loader#readme",
+  "dependencies": {
+    "@hai2007/nodejs": "^2.1.0"
+  }
+}
