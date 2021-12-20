@@ -11,5 +11,5 @@ module.exports = function (source) {
     const babelCore = require(babelCoreUrl);
     const babelConfig = require(babelConfigUrl);
 
-    return babelCore.transformFileSync(this.filepath, babelConfig).code;
+    return babelCore.transformSync(source, babelConfig).code;
 };
