@@ -1,5 +1,5 @@
 <p align='center'>
-    <a href='https://ectpack.github.io/api' target='_blank'>
+    <a href='https://etcpack.github.io/api' target='_blank'>
         <img src='./logo.png'>
     </a>
 </p>
