@@ -27,7 +27,7 @@ npm install --save-dev @etcpack/babel-loader
 
 ```js
 loader: [{
-    test: /\.txt$/,
+    test: /\.js$/,
     handler: ['@etcpack/babel-loader']
 }]
 ```
